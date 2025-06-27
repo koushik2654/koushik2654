@@ -52,6 +52,9 @@ I'm seeking opportunities in **Flutter development**, **mobile app engineering**
 - 🧾 Portfolio: *Coming soon*
 - 📄 Resume: *Available on request*
 
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/koushik2606?theme=light&font=Noto%20Sans%20Phags%20Pa&ext=heatmap)](https://leetcode.com/koushik2606/)
 ---
 
 📌 *Let’s build something impactful together!*
