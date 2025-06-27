@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Koushik 👋 </h2>
+<h2 align="center"> Hi , I'm Koushik  👋 </h2>
 
 ## 👨‍💻 About Me
 
@@ -19,10 +19,10 @@ I'm **Koushik RV**, a Software Developer passionate about building cross-platfor
 
 ## 📂 Tech Stack
 
-- **Languages**: Dart, Java, Python, HTML, CSS
-- **Frameworks**: Flutter, Firebase, Streamlit
-- **Tools**: Git, GitHub, VSCode, Android Studio, Postman
-- **Cloud**: Firebase, Supabase
+- **Languages**: Dart, Python, HTML, CSS , C+ , Java
+- **Frameworks**: Flutter, Firebase, Streamlit 
+- **Tools**: Git, GitHub, VSCode, Android Studio, Postman, n8n
+- **Cloud**: Firebase, Supabase 
 
 ---
 
@@ -48,6 +48,7 @@ I'm seeking opportunities in **Flutter development**, **mobile app engineering**
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
+- 📊 [LeetCode]https://leetcode.com/u/koushik2606/
 - 🧾 Portfolio: *Coming soon*
 - 📄 Resume: *Available on request*
 
