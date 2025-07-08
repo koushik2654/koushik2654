@@ -49,7 +49,7 @@ I'm seeking opportunities in **Flutter development**, **mobile app engineering**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
 - 📊 [LeetCode]https://leetcode.com/u/koushik2606/
-- 🧾 Portfolio: *Coming soon*
+- 🧾 Portfolio: [*Coming soon*](https://koushik2654.github.io/portfolio/)
 - 📄 Resume: *Available on request*
 
 ## 📊 LeetCode Stats
