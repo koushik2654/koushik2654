@@ -2,7 +2,7 @@
 
 # Hi, I'm Koushik 👋
 
-### Software Developer · Flutter · .NET Core · AI Engineering
+### Software Developer · Flutter · .NET Core · Go (Learning)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--koushik--ravuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
@@ -19,7 +19,7 @@ I'm a **Software Developer** based in Hyderabad, India with 1+ year of experienc
 
 I work across the full stack — designing **RESTful APIs** with **.NET Core and MVC architecture** on the backend, and building cross-platform mobile experiences with **Flutter** on the front end. I take pride in owning features **end-to-end**: from requirements gathering and technical design all the way to deployment and post-release support.
 
-Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipelines, LangChain, and production AI systems. I believe the engineers who understand how AI really works — not just how to call an API — will define the next decade of software.
+Currently deepening my backend expertise by learning **Go (Golang)** — focusing on building high-performance, concurrent backend services and REST APIs.
 
 ---
 
@@ -30,9 +30,9 @@ Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipel
 - ⚙️ Reduced Android deployment time from **multiple days to under 1 hour** via CI/CD and Gradle optimization
 - 📉 Optimized GraphQL queries, **reducing API calls by 20%** in low-network environments
 - 🏗️ Built production APIs using **.NET Core MVC** with SQL Server, stored procedures, and GraphQL integration
-- 🧠 Strong foundation in DSA — **150+ LeetCode problems** solved (Trees, Graphs, Dynamic Programming)
+- 🧠 Strong DSA foundation — **200+ LeetCode problems** solved (Trees, Graphs, Dynamic Programming)
 - ✅ Practiced **MVVM**, **Clean Architecture**, code reviews, and industry documentation standards
-- 🤖 Currently learning **LangChain, RAG pipelines, and LLM fine-tuning** for AI Engineering transition
+- 🔵 Currently learning **Go (Golang)** for high-performance backend development
 
 ---
 
@@ -43,6 +43,7 @@ Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipel
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,6 +52,7 @@ Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipel
 
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -70,14 +72,6 @@ Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipel
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=flat-square&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-6c63ff?style=flat-square&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-43e8b0?style=flat-square&logoColor=white)
-
-**AI & Data (Currently Learning)**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Tools**
 
@@ -120,6 +114,6 @@ Cross-platform appointment scheduling app built from scratch with Firebase Authe
 
 ---
 
-## 🤖 Currently Learning — AI Engineering Path
+## 🔵 Currently Learning — Go Backend Development
 
-I'm making a deliberate transition into AI Engineering, focusing on the engineering side of AI — not just using APIs, but understanding how models work and building production AI systems.
+Expanding my backend expertise with **Go (Golang)**, known for its simplicity, performance, and excellent concurrency model — ideal for building scalable microservices and high-throughput APIs.
