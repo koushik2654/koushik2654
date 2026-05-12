@@ -1,60 +1,125 @@
-<h2 align="center"> Hi , I'm Koushik  👋 </h2>
+<div align="center">
+
+# Hi, I'm Koushik 👋
+
+### Software Developer · Flutter · .NET Core · AI Engineering
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--koushik--ravuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-koushik2606-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/koushik2606/)
+[![Email](https://img.shields.io/badge/Email-venkatakoushikravuri@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkatakoushikravuri@gmail.com)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm **Koushik RV**, a Software Developer passionate about building cross-platform mobile applications using **Flutter**, with strong backend knowledge and an eye for clean architecture and performance optimization.
+I'm a **Software Developer** based in Hyderabad, India with 1+ year of experience building and scaling production-grade applications serving **600K+ active users** at **MyClass Board**.
+
+I work across the full stack — designing **RESTful APIs** with **.NET Core and MVC architecture** on the backend, and building cross-platform mobile experiences with **Flutter** on the front end. I take pride in owning features **end-to-end**: from requirements gathering and technical design all the way to deployment and post-release support.
+
+Currently expanding into **AI Engineering** — diving deep into LLMs, RAG pipelines, LangChain, and production AI systems. I believe the engineers who understand how AI really works — not just how to call an API — will define the next decade of software.
 
 ---
 
-### 🚀 Key Highlights
+## 🚀 Key Highlights
 
-- 📱 Developed production-level apps using **Flutter**, **Dart**, and REST APIs.
-- 🌐 Experience with backend integration, **Firebase**, and **GraphQL**.
-- 💻 Strong knowledge of **Data Structures & Algorithms** — 200+ problems on LeetCode.
-- ⚙️ Familiar with state management (GetX, Provider) and modular app design.
-- 🧠 Continuously improving through real-world projects and AI tools like ChatGPT.
-- ✅ Followed clean coding principles and version control using Git & GitHub.
-
----
-
-## 📂 Tech Stack
-
-- **Languages**: Dart, Python, HTML, CSS , C+ , Java
-- **Frameworks**: Flutter, Firebase, Streamlit 
-- **Tools**: Git, GitHub, VSCode, Android Studio, Postman, n8n
-- **Cloud**: Firebase, Supabase 
+- 🏭 Maintained and scaled **30+ production apps** including 2 flagship apps serving **600K+ active users**
+- 📱 Took **complete end-to-end ownership** of 4 modules in the MyClass Board Parent Portal — Attendance, School Store, Announcements, and Class Diary
+- ⚙️ Reduced Android deployment time from **multiple days to under 1 hour** via CI/CD and Gradle optimization
+- 📉 Optimized GraphQL queries, **reducing API calls by 20%** in low-network environments
+- 🏗️ Built production APIs using **.NET Core MVC** with SQL Server, stored procedures, and GraphQL integration
+- 🧠 Strong foundation in DSA — **150+ LeetCode problems** solved (Trees, Graphs, Dynamic Programming)
+- ✅ Practiced **MVVM**, **Clean Architecture**, code reviews, and industry documentation standards
+- 🤖 Currently learning **LangChain, RAG pipelines, and LLM fine-tuning** for AI Engineering transition
 
 ---
 
-## 🌟 Projects
+## 🛠️ Tech Stack
 
-🔹 **Arohana Education Society**  
-*Flutter app for a school/NGO to manage student information and documents.*
+**Languages**
 
-🔹 **Dog-Find**  
-*Python-based dog breed identifier using TensorFlow and Streamlit.*
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔹 **Portfolio Website**  
-*A clean static site showcasing my projects and skills.*
+**Backend & APIs**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=flat-square&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-6c63ff?style=flat-square&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-43e8b0?style=flat-square&logoColor=white)
+
+**AI & Data (Currently Learning)**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 📈 Currently Looking For
+## 📂 Featured Projects
 
-I'm seeking opportunities in **Flutter development**, **mobile app engineering**, or **backend-integrated hybrid roles** where I can apply my skills to real-world challenges and continue learning.
+### 🏫 [MyClass Board — Parent Portal](https://github.com/koushik2654)
+> Flutter · .NET Core · MVC · GraphQL · Firebase · SQL Server
+
+Cross-platform mobile and web application serving **600K+ active users**, bridging schools and parents. Took complete end-to-end ownership of 4 production modules:
+
+| Module | Description |
+|---|---|
+| 📋 **Attendance** | Real-time tracking with live GraphQL sync across all devices |
+| 🛒 **School Store** | Browse, purchase, and track school items with responsive UI |
+| 📢 **Announcements** | Firebase push notifications and Firestore listeners for instant updates |
+| 📓 **Class Diary** | Daily assignments and remarks with GetX state management |
 
 ---
 
-## 🌐 Connect with Me
+### 🔗 [Scalable URL Shortener](https://github.com/koushik2654)
+> Node.js · Python · PostgreSQL · Redis
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
-- 📊 [LeetCode]https://leetcode.com/u/koushik2606/
-- 🧾 Portfolio: https://koushik2654.github.io/portfolio/
-- 📄 Resume: *Available on request*
+High-throughput backend service using Base62 encoding with PostgreSQL indexed lookups, Redis caching layer to reduce query load, and a custom analytics dashboard tracking click-through rates and geographic distribution.
 
-## 📊 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/koushik2606?theme=light&font=Noto%20Sans%20Phags%20Pa&ext=heatmap)](https://leetcode.com/koushik2606/)
 ---
 
-📌 *Let’s build something impactful together!*
+### 🩺 [Doc Easy — Doctor Appointment App](https://github.com/koushik2654)
+> Flutter · Dart · Firebase · GetX · Clean Architecture
+
+Cross-platform appointment scheduling app built from scratch with Firebase Authentication, real-time Firestore listeners, Clean Architecture separation across data/domain/presentation layers, and Flutter DevTools performance profiling.
+
+---
+
+## 🤖 Currently Learning — AI Engineering Path
+
+I'm making a deliberate transition into AI Engineering, focusing on the engineering side of AI — not just using APIs, but understanding how models work and building production AI systems.
