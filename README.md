@@ -82,6 +82,11 @@ Currently deepening my backend expertise by learning **Go (Golang)** — focusin
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
 ## 📂 Featured Projects
