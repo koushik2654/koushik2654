@@ -31,7 +31,7 @@ Currently deepening my backend expertise by learning **Go (Golang)** — focusin
 - 📉 Optimized GraphQL queries, **reducing API calls by 20%** in low-network environments
 - 🏗️ Built production APIs using **.NET Core MVC** with SQL Server, stored procedures, and GraphQL integration
 - 🧠 Strong DSA foundation — **200+ LeetCode problems** solved (Trees, Graphs, Dynamic Programming)
-- ✅ Practiced **MVVM**, **Clean Architecture**, code reviews, and industry documentation standards
+- ✅ Practiced **MVVM**, **MVC** , **Clean Architecture**, code reviews, and industry documentation standards
 - 🔵 Currently learning **Go (Golang)** for high-performance backend development
 
 ---
