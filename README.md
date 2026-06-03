@@ -2,7 +2,7 @@
 
 #Hi, I'm Koushik 👋
 
-### Software Developer · Flutter · .NET Core · Python Developer · Go (Learning)
+### Software Developer · Flutter · .NET Core · Python Developer · Go
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--koushik--ravuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
