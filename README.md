@@ -12,11 +12,7 @@
 </div>
 
 
-
 ## 👨‍💻 About Me
-
-
-
 
 
 I'm a **Software Developer** based in India with nearly 2+ year of experience building and scaling production-grade applications serving **600K+ active users** at **MyClass Board**.
