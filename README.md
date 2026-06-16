@@ -17,8 +17,6 @@
 
 I'm a **Software Developer** based in India with nearly 2+ year of experience building and scaling production-grade applications serving **600K+ active users** at **MyClass Board**.
 
-
-
 I work across the full stack — designing **RESTful APIs** with **.NET Core and MVC architecture** on the backend, and building cross-platform mobile experiences with **Flutter** on the front end. I take pride in owning features **end-to-end**: from requirements gathering and technical design all the way to deployment and post-release support.
 
 Currently deepening my backend expertise by learning **Go (Golang)** — focusing on building high-performance, concurrent backend services and REST APIs
