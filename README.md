@@ -19,7 +19,7 @@ I'm a **Software Developer** based in India with nearly 2+ year of experience bu
 
 I work across the full stack — designing **RESTful APIs** with **.NET Core and MVC architecture** on the backend, and building cross-platform mobile experiences with **Flutter** on the front end. I take pride in owning features **end-to-end**: from requirements gathering and technical design all the way to deployment and post-release support.
 
-Currently deepening my backend expertise by learning **Go (Golang)** — focusing on building high-performance, concurrent backend services and REST APIs
+Currently focusing on building high-performance, concurrent backend services and REST APIs
 .
 ---
 
@@ -116,9 +116,3 @@ High-throughput backend service using Base62 encoding with PostgreSQL indexed lo
 > Flutter · Dart · Firebase · GetX · Clean Architecture
 
 Cross-platform appointment scheduling app built from scratch with Firebase Authentication, real-time Firestore listeners, Clean Architecture separation across data/domain/presentation layers, and Flutter DevTools performance profiling.
-
----
-
-## 🔵 Currently Learning — Go Backend Development
-
-Expanding my backend expertise with **Go (Golang)**, known for its simplicity, performance, and excellent concurrency model — ideal for building scalable microservices and high-throughput APIs.
