@@ -126,6 +126,123 @@ Cross-platform appointment scheduling app built from scratch with Firebase Authe
 
 ---
 
+### 🤖 [ResumePilot.ai — Multi-Agent Resume Intelligence Platform](https://github.com/koushik2654)
+> Python · React · LLMs · Multi-Agent Architecture · REST API
+
+A resume intelligence platform that goes far beyond ATS checking. Users upload a resume and job description — ResumePilot runs **5 specialized AI agents in parallel**, each acting as a different expert reviewer, and aggregates their outputs into a unified match report.
+
+| Agent | Role |
+|---|---|
+| 🔍 **ATS Agent** | Scores ATS compatibility, flags missing keywords, checks formatting and section completeness |
+| 🧑‍💼 **Recruiter Agent** | Evaluates like a hiring manager — are achievements compelling? Would they call you? |
+| 📊 **Skills Gap Agent** | Compares resume skills vs JD requirements and generates a learning roadmap |
+| ✍️ **Rewrite Agent** | Transforms weak resume bullets into quantified, ATS-friendly achievements |
+| 🎯 **Interview Agent** | Generates tailored technical, behavioral, and project-specific interview questions |
+
+**Sample output:**
+```
+Overall Match Score: 84%
+ATS Score: 88%  |  Recruiter Score: 80%  |  Skills Match: 83%
+
+Top Missing Skills: Docker · AWS · CI/CD
+```
+
+The core idea: instead of one monolithic prompt doing everything, the problem is decomposed into specialized agents orchestrated in sequence — each one an expert at its task — then aggregated into a single actionable dashboard.
+
+---
+
+## 🤖 Currently Learning & Building
+
+> I'm actively exploring AI/ML and integrating intelligent features into side projects.
+
+- 🧠 **AI/ML Fundamentals** — studying machine learning concepts, LLMs, and transformer architectures
+- 🔗 **LLM Integration** — experimenting with OpenAI API, LangChain, and prompt engineering patterns
+- 📱 **AI-Powered Apps** — building side projects that combine Flutter/backend skills with AI features
+- 🛠️ **Side Projects in Progress** — working on apps that solve real problems using AI at their core
+
+*More projects dropping soon — stay tuned!* 🚀![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & APIs**
+
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=flat-square&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-6c63ff?style=flat-square&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-43e8b0?style=flat-square&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📂 Featured Projects
+
+### 🏫 [MyClass Board — Parent Portal](https://github.com/koushik2654)
+> Flutter · .NET Core · MVC · GraphQL · Firebase · SQL Server
+
+Cross-platform mobile and web application serving **600K+ active users**, bridging schools and parents. Took complete end-to-end ownership of 4 production modules:
+
+| Module | Description |
+|---|---|
+| 📋 **Attendance** | Real-time tracking with live GraphQL sync across all devices |
+| 🛒 **School Store** | Browse, purchase, and track school items with responsive UI |
+| 📢 **Announcements** | Firebase push notifications and Firestore listeners for instant updates |
+| 📓 **Class Diary** | Daily assignments and remarks with GetX state management |
+
+---
+
+### 🔗 [Scalable URL Shortener](https://github.com/koushik2654)
+> Node.js · Python · PostgreSQL · Redis
+
+High-throughput backend service using Base62 encoding with PostgreSQL indexed lookups, Redis caching layer to reduce query load, and a custom analytics dashboard tracking click-through rates and geographic distribution.
+
+---
+
+### 🩺 [Doc Easy — Doctor Appointment App](https://github.com/koushik2654)
+> Flutter · Dart · Firebase · GetX · Clean Architecture
+
+Cross-platform appointment scheduling app built from scratch with Firebase Authentication, real-time Firestore listeners, Clean Architecture separation across data/domain/presentation layers, and Flutter DevTools performance profiling.
+
+---
+
 ## 🤖 Currently Learning & Building
 
 > I'm actively exploring AI/ML and integrating intelligent features into side projects.
