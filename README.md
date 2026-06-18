@@ -2,7 +2,7 @@
 
 #Hi, I'm Koushik 👋
 
-### Software Developer · Flutter · .NET Core · Python Developer · Go
+### Software Developer · Flutter · .NET Core · Python · AI/ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--koushik--ravuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
@@ -14,13 +14,12 @@
 
 ## 👨‍💻 About Me
 
-
-I'm a **Software Developer** based in India with nearly 2+ year of experience building and scaling production-grade applications serving **600K+ active users** at **MyClass Board**.
+I'm a **Software Developer** based in India with nearly 2+ years of experience building and scaling production-grade applications serving **600K+ active users** at **MyClass Board**.
 
 I work across the full stack — designing **RESTful APIs** with **.NET Core and MVC architecture** on the backend, and building cross-platform mobile experiences with **Flutter** on the front end. I take pride in owning features **end-to-end**: from requirements gathering and technical design all the way to deployment and post-release support.
 
-Currently focusing on building high-performance, concurrent backend services and REST APIs
-.
+Currently exploring **AI/ML** and building side app projects that integrate intelligent features into real-world products.
+
 ---
 
 ## 🚀 Key Highlights
@@ -31,8 +30,8 @@ Currently focusing on building high-performance, concurrent backend services and
 - 📉 Optimized GraphQL queries, **reducing API calls by 20%** in low-network environments
 - 🏗️ Built production APIs using **.NET Core MVC** with SQL Server, stored procedures, and GraphQL integration
 - 🧠 Strong DSA foundation — **200+ LeetCode problems** solved (Trees, Graphs, Dynamic Programming)
-- ✅ Practiced **MVVM**, **MVC** , **Clean Architecture**, code reviews, and industry documentation standards
-- 🔵 Currently learning **Go (Golang)** for high-performance backend development
+- ✅ Practiced **MVVM**, **MVC**, **Clean Architecture**, code reviews, and industry documentation standards
+- 🤖 Currently learning **AI/ML** — exploring LLMs, prompt engineering, and building AI-powered side projects
 
 ---
 
@@ -57,6 +56,13 @@ Currently focusing on building high-performance, concurrent backend services and
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Databases**
 
@@ -87,6 +93,7 @@ Currently focusing on building high-performance, concurrent backend services and
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ---
 
 ## 📂 Featured Projects
@@ -116,3 +123,16 @@ High-throughput backend service using Base62 encoding with PostgreSQL indexed lo
 > Flutter · Dart · Firebase · GetX · Clean Architecture
 
 Cross-platform appointment scheduling app built from scratch with Firebase Authentication, real-time Firestore listeners, Clean Architecture separation across data/domain/presentation layers, and Flutter DevTools performance profiling.
+
+---
+
+## 🤖 Currently Learning & Building
+
+> I'm actively exploring AI/ML and integrating intelligent features into side projects.
+
+- 🧠 **AI/ML Fundamentals** — studying machine learning concepts, LLMs, and transformer architectures
+- 🔗 **LLM Integration** — experimenting with OpenAI API, LangChain, and prompt engineering patterns
+- 📱 **AI-Powered Apps** — building side projects that combine Flutter/backend skills with AI features
+- 🛠️ **Side Projects in Progress** — working on apps that solve real problems using AI at their core
+
+*More projects dropping soon — stay tuned!* 🚀
