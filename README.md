@@ -21,6 +21,8 @@ I work across the full stack — designing **RESTful APIs** with **.NET Core and
 
 Currently exploring **AI/ML** and building side app projects that integrate intelligent features into real-world products.
 
+
+
 ---
 
 ## 🚀 Key Highlights
