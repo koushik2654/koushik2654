@@ -5,8 +5,7 @@
 
 ### Software Developer · Flutter · .NET Core · Python · AI/ML Enthusiast
 
-[![Portfolio](htt
-ps://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-koushik2654.github.io-6c63ff?style=flat-square&logo=google-chrome&logoColor=white)](https://koushik2654.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--koushik--ravuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-koushik-ravuri-ab6ab0331/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-koushik2606-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/koushik2606/)
 [![Email](https://img.shields.io/badge/Email-venkatakoushikravuri@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkatakoushikravuri@gmail.com)
