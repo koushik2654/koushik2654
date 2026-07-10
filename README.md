@@ -27,6 +27,7 @@ Currently exploring **AI/ML** and building side app projects that integrate inte
 
 ## 🚀 Key Highlights
 
+
 - 🏭 Maintained and scaled **30+ production apps** including 2 flagship apps serving **600K+ active users**
 - 📱 Took **complete end-to-end ownership** of 4 modules in the MyClass Board Parent Portal — Attendance, School Store, Announcements, and Class Diary
 - ⚙️ Reduced Android deployment time from **multiple days to under 1 hour** via CI/CD and Gradle optimization
